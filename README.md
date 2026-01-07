@@ -159,6 +159,4 @@ Voice correction (Auto-tune)
 VocalMaster proves that AI-powered music learning can be fully offline, accurate, and effective.
 By combining audio signal processing, machine learning, and offline AI models, the system provides a reliable and accessible solution for improving singing skills without internet dependency.
 
-📄 License
 
-Academic Project – For educational use only.
