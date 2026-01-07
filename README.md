@@ -55,6 +55,7 @@ Make music learning accessible anytime, anywhere
 📴 Fully standalone system
 
 🧠 Technologies Used (Offline)
+
 Programming
 
 Python 3.8+
